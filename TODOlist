@@ -1,0 +1,69 @@
+Things left to do for M project
+
+* Code
+** Classes
+*** DONE Classes for constraint sets
+** Output formatting
+   Format the output of main.py to display constraints as upper and lower
+   bounds on pseudo variables (combinations of base variables) 
+** Optimal constraint fitting
+*** [Test] shape inside AOS/DOS intersection
+*** [Test] shape convex
+*** [Test] feasible 'volume'
+*** [Optimize] Maximize 'volume' subject to constraint limit
+** Non-linear model handling
+*** Polynomials
+*** Other?
+** Model types
+*** for RMPCT
+*** for DMCPlus
+** GUIs
+** Test/Simulations
+*** Tennessee Eastman problem
+*** Case-studies (Prevlen)
+*** Rig runs?
+* Write-up
+** Thesis
+*** Get on github
+**** TODO Skeleton
+*** Sections
+**** Title
+**** Abstract
+**** TOC/LOF/LOT
+**** Introduction
+**** Literature
+***** Maths
+****** Models investigated (scope)
+****** Topology (where applicable)
+***** Current/Previous work
+**** Background
+***** MPC
+****** MPC background
+****** RMPCT overview
+****** DMCPlus overview
+***** Case studies / Simulations
+**** Programming
+**** Results
+**** Conclusions and reccomendations
+**** References
+***** DONE BibTeX
+**** [Appendices]?
+**** [Images]
+***** XFig (FIG/TEX)
+***** Graphs (PDF)
+***** Other (JPG/PNG)
+** Article
+*** Get on github
+*** Sections
+** Abstract for SAIChE symposium
+*** DONE Write
+*** To Carl for review
+* Misc
+** Get DMCPlus info
+** List of external examiners
+*** PL Lee
+    - sent mail
+    - sent mail (again)
+*** DONE F Lima
+fvlima@umn.edu
+*** Send to Carl
