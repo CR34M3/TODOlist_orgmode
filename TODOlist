@@ -3,7 +3,7 @@ Things left to do for M project
 * Code
 ** Classes
 *** DONE Classes for constraint sets
-** Output formatting
+** DONE Output formatting
    Format the output of main.py to display constraints as upper and lower
    bounds on pseudo variables (combinations of base variables) 
 ** Optimal constraint fitting
@@ -22,10 +22,11 @@ Things left to do for M project
 *** Tennessee Eastman problem
 *** Case-studies (Prevlen)
 *** Rig runs?
+**** Bernard RMPCT discuss
 * Write-up
 ** Thesis
 *** Get on github
-**** TODO Skeleton
+**** DONE Skeleton
 *** Sections
 **** Title
 **** Abstract
@@ -57,13 +58,19 @@ Things left to do for M project
 *** Sections
 ** Abstract for SAIChE symposium
 *** DONE Write
-*** To Carl for review
+*** DONE To Carl for review
+*** DONE Add to wiki for feedback
+*** TODO Prune
 * Misc
 ** Get DMCPlus info
-** List of external examiners
-*** PL Lee
+*** Bernard info
+**** Training doc
+**** DONE Patents
+** DONE List of external examiners
+*** DONE PL Lee
+    - vc@scu.edu.au
     - sent mail
     - sent mail (again)
 *** DONE F Lima
 fvlima@umn.edu
-*** Send to Carl
+*** DONE Send to Carl
